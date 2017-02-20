@@ -7,7 +7,7 @@
 - Identité
 - Design Graphique
 
-#### _Experiences_
+### _Experiences_
 
 **Contrat de professionnalisation en Alternance - Assistant marketing digital**  
 _Stratégie de développement digital & marketing_
@@ -22,7 +22,7 @@ _Intégration, Développement html, css, php et migrations de CMS_
 *Assistance des analyses financières dans divers problèmes informatiques, participation à un congrès d'investisseurs.*
 
 
-#### _Formations_
+### _Formations_
 
 **2ème année Filière SUP' Web et Digital**  
 *Titre certifiée niveau 2, Assistant Web & Digital.*
