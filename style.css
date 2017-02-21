@@ -1,0 +1,36 @@
+*{
+  font-family: roboto;
+}
+
+body{
+  max-width: 700px;
+  margin: 0 auto;
+}
+h1{
+  text-align: center;
+}
+
+hr{
+  color: rgba(0,0,0,0.1);
+}
+
+h1,h2,h3,h4,h5 {
+  color: #1B76C1;
+}
+
+p,li{
+    color:#777;
+    font-size: 13px;
+}
+
+blockquote{
+  font-style: italic;
+  font-size: 14px;
+  background: rgba(50,50,50,0.1);
+  padding: 1px 15px;
+  margin: 0;
+}
+
+strong{
+  color: #444;
+}
